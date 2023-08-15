@@ -1,2 +1,1 @@
-All number less than 10 
-21
+1 2 3 4 
