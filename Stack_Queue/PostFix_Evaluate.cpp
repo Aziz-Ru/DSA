@@ -3,6 +3,7 @@ using namespace std;
 #define Fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 #define int long long int
 #define nl '\n'
+
 class Stack{
 private:
 	int size;

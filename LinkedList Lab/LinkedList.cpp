@@ -15,6 +15,7 @@ public:
 	}
 
 };
+
 class LinkedList{
 private: 
 	node* head;
