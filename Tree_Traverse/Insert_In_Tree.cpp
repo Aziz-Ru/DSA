@@ -5,8 +5,7 @@ using namespace std;
 #define nl '\n'
 // root theke left subtree value kom hobe
 // root hote right subtree value beshi hbe
-class Tree{
-public:
+struct Tree{
 	int data;
 	Tree* left;
 	Tree* right;

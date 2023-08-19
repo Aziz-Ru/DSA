@@ -3,8 +3,7 @@ using namespace std;
 #define Fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 #define int long long int
 #define nl '\n'
-class node{
-public:
+struct node{
 	int data;
 	node* next;
 	node(int val){
@@ -13,6 +12,7 @@ public:
 	}
 	
 };
+
 class Queue{
 private:
 	node* head;
