@@ -1,0 +1,3 @@
+Enter size of Hash array Size: 
+ Enter Number of elements:5 5 5 5 9 4 4 
+ Enter Your Search Item:Found it
